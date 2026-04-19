@@ -1,4 +1,4 @@
-package com.Inventory.model;
+package com.inventory.model;
 
 public class Transaction {
 }
